@@ -1,0 +1,31 @@
+
+.food{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+.FoodDiv{
+  background-color: lightpink;
+  margin: 1pc;
+}
+.foodItem{
+  margin-left: 8pc;
+  width: 7pc;
+}
+.star img{
+  margin-top: 1pc;
+  width:2pc;
+  height: 2pc;
+  margin-left: 1pc;
+}
+.star{
+  margin-left: 1pc;
+  width: pc;
+  display: flex;
+  flex-direction: row;
+}
+h2{
+  color:red;
+}
+h4,p{
+  margin-left: 6pc;
+}

@@ -1,0 +1,107 @@
+.heading{
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/20170803/pngtree-Food-Menu-Fare-Meal-background-photo-869492.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+    height: 40pc;
+    margin: 0;
+    padding: 0;
+}
+.main{
+    margin-left: 45pc;
+    margin-top: 0px;
+    width: 600px;
+    height: 680px;
+    padding: 10px;
+
+}
+.imgval{
+    width: 50px;
+    height: 50px;
+}
+
+.inputans,input{
+    width: 450px;
+    padding: 20px 0 7px 10px;
+    margin-left: 0;
+    margin-top: 15px;
+    border: 2px solid rgb(43, 179, 233);
+    /* border-radius: 5pc ; */
+    background-color: #fff;
+    border: 2px solid rgb(36, 179, 236) ;
+    outline: none;
+}
+
+.inputans:focus,
+.inputans:active {
+    color: black;
+    border-color:rgb(25, 180, 241);
+}
+i{
+    background-color: dodgerblue;
+    font-size: 1.7pc;
+    padding: 5px;    
+}
+h1{
+    text-align: center;
+}
+.inputNa{
+    margin-left: 2.5pc;
+}
+.inputNa button{
+    width: 510px;
+    padding: 20px 0 7px 10px;
+    margin-left: 0;
+    margin-top: 15px;
+    border: 2px solid rgb(43, 179, 233);
+    /* border-radius: 5pc ; */
+    background-color: dodgerblue;
+    border: 2px solid rgb(36, 179, 236) ;
+
+}
+.remember{
+    margin-left: -10pc;
+    padding-top: 15px;
+}
+.spanSi{
+    margin-left: -13pc;
+    color: black;
+}
+.another{
+    display: flex;
+    flex-direction: row;
+}
+.forgot{
+    padding: 25px 0 0 14pc;
+}
+h2{
+    text-align: center;
+}
+.online{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    margin-left: 2.5pc;
+}
+.facebook{
+    margin-left: 2pc;
+    width: 15pc;
+    background-color: dodgerblue;
+
+}
+.google{
+    width: 15pc;
+    color: black;
+    background-color: white;
+}
+.google img{
+    width: 2pc;
+    height: 2pc;
+    
+}
+.facebook img{
+    width: 3pc;
+    height: 2pc;
+    margin-left: -5pc;
+    
+}
